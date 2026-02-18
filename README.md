@@ -1,4 +1,4 @@
-# Options Pricing 
+# Market Finance Portfolio
 
 Personal Python projects in market finance, with a focus on derivatives and options.
 
