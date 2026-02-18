@@ -7,4 +7,4 @@ Project: Black-Scholes pricing (call/put) + payoffs and a straddle example.
 - moneyness.py: tells ITM / ATM / OTM
 - payoffs.py: call/put payoffs
 - straddle.py: straddle P&L + break-even
-- Put-Call Parity Check
+- Put-Call Parity Check: checks the no-arbitrage relationship
