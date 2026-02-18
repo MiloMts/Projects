@@ -1,6 +1,6 @@
-# Options Pricing (Python)
+# Options Pricing 
 
-Project: Black-Scholes pricing (call/put) + payoffs and a straddle example.
+Personal Python projects in market finance, with a focus on derivatives and options.
 
 ## What is inside
 - black_scholes.py: computes Black-Scholes call/put prices
